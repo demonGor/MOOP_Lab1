@@ -1,0 +1,3 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Map>
+  <Country id="1" name="Україна"><City id="1" name="Київ" iscap="1" count="3000000" /><City id="2" name="Львів" iscap="0" count="600000" /><City id="5" name="Харків" iscap="0" count="78000" /></Country><Country id="2" name="Білорусь"><City id="3" name="Мінськ" iscap="1" count="1700000" /><City id="4" name="Вітебськ" iscap="0" count="350000" /></Country><Country id="3" name="France"><City id="6" name="Париж" iscap="1" count="86000" /><City id="7" name="Ренн" iscap="0" count="60000" /></Country></Map>
