@@ -1,0 +1,19 @@
+<?xml encoding="utf-8"?>
+
+<!ELEMENT Map (Country)+>
+<!ATTLIST Map
+    xmlns CDATA #FIXED ''>
+
+<!ELEMENT Country (City)+>
+<!ATTLIST Country
+    xmlns CDATA #FIXED ''
+    id CDATA #REQUIRED
+    name NMTOKEN #REQUIRED>
+
+<!ELEMENT City EMPTY>
+<!ATTLIST City
+    xmlns CDATA #FIXED ''
+    count CDATA #REQUIRED
+    id CDATA #REQUIRED
+    iscap CDATA #REQUIRED
+    name NMTOKEN #REQUIRED>
