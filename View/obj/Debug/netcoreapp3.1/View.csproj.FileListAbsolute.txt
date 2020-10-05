@@ -14,3 +14,19 @@ C:\Users\dimaz\source\repos\MOOPLab1\View\obj\Debug\netcoreapp3.1\View.dll
 C:\Users\dimaz\source\repos\MOOPLab1\View\obj\Debug\netcoreapp3.1\View.pdb
 C:\Users\dimaz\source\repos\MOOPLab1\View\bin\Debug\netcoreapp3.1\BLL.dll
 C:\Users\dimaz\source\repos\MOOPLab1\View\bin\Debug\netcoreapp3.1\BLL.pdb
+C:\Users\dimaz\OneDrive\Рабочий стол\MOOP_Lab1\View\bin\Debug\netcoreapp3.1\View.exe
+C:\Users\dimaz\OneDrive\Рабочий стол\MOOP_Lab1\View\bin\Debug\netcoreapp3.1\View.deps.json
+C:\Users\dimaz\OneDrive\Рабочий стол\MOOP_Lab1\View\bin\Debug\netcoreapp3.1\View.runtimeconfig.json
+C:\Users\dimaz\OneDrive\Рабочий стол\MOOP_Lab1\View\bin\Debug\netcoreapp3.1\View.runtimeconfig.dev.json
+C:\Users\dimaz\OneDrive\Рабочий стол\MOOP_Lab1\View\bin\Debug\netcoreapp3.1\View.dll
+C:\Users\dimaz\OneDrive\Рабочий стол\MOOP_Lab1\View\bin\Debug\netcoreapp3.1\View.pdb
+C:\Users\dimaz\OneDrive\Рабочий стол\MOOP_Lab1\View\bin\Debug\netcoreapp3.1\BLL.dll
+C:\Users\dimaz\OneDrive\Рабочий стол\MOOP_Lab1\View\bin\Debug\netcoreapp3.1\DAL.dll
+C:\Users\dimaz\OneDrive\Рабочий стол\MOOP_Lab1\View\bin\Debug\netcoreapp3.1\BLL.pdb
+C:\Users\dimaz\OneDrive\Рабочий стол\MOOP_Lab1\View\bin\Debug\netcoreapp3.1\DAL.pdb
+C:\Users\dimaz\OneDrive\Рабочий стол\MOOP_Lab1\View\obj\Debug\netcoreapp3.1\View.csprojAssemblyReference.cache
+C:\Users\dimaz\OneDrive\Рабочий стол\MOOP_Lab1\View\obj\Debug\netcoreapp3.1\View.AssemblyInfoInputs.cache
+C:\Users\dimaz\OneDrive\Рабочий стол\MOOP_Lab1\View\obj\Debug\netcoreapp3.1\View.AssemblyInfo.cs
+C:\Users\dimaz\OneDrive\Рабочий стол\MOOP_Lab1\View\obj\Debug\netcoreapp3.1\View.csproj.CopyComplete
+C:\Users\dimaz\OneDrive\Рабочий стол\MOOP_Lab1\View\obj\Debug\netcoreapp3.1\View.dll
+C:\Users\dimaz\OneDrive\Рабочий стол\MOOP_Lab1\View\obj\Debug\netcoreapp3.1\View.pdb

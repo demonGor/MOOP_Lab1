@@ -6,3 +6,11 @@ C:\Users\dimaz\source\repos\MOOPLab1\DAL\obj\Debug\netcoreapp3.1\DAL.AssemblyInf
 C:\Users\dimaz\source\repos\MOOPLab1\DAL\obj\Debug\netcoreapp3.1\DAL.AssemblyInfo.cs
 C:\Users\dimaz\source\repos\MOOPLab1\DAL\obj\Debug\netcoreapp3.1\DAL.dll
 C:\Users\dimaz\source\repos\MOOPLab1\DAL\obj\Debug\netcoreapp3.1\DAL.pdb
+C:\Users\dimaz\OneDrive\Рабочий стол\MOOP_Lab1\DAL\bin\Debug\netcoreapp3.1\DAL.deps.json
+C:\Users\dimaz\OneDrive\Рабочий стол\MOOP_Lab1\DAL\bin\Debug\netcoreapp3.1\DAL.dll
+C:\Users\dimaz\OneDrive\Рабочий стол\MOOP_Lab1\DAL\bin\Debug\netcoreapp3.1\DAL.pdb
+C:\Users\dimaz\OneDrive\Рабочий стол\MOOP_Lab1\DAL\obj\Debug\netcoreapp3.1\DAL.csprojAssemblyReference.cache
+C:\Users\dimaz\OneDrive\Рабочий стол\MOOP_Lab1\DAL\obj\Debug\netcoreapp3.1\DAL.AssemblyInfoInputs.cache
+C:\Users\dimaz\OneDrive\Рабочий стол\MOOP_Lab1\DAL\obj\Debug\netcoreapp3.1\DAL.AssemblyInfo.cs
+C:\Users\dimaz\OneDrive\Рабочий стол\MOOP_Lab1\DAL\obj\Debug\netcoreapp3.1\DAL.dll
+C:\Users\dimaz\OneDrive\Рабочий стол\MOOP_Lab1\DAL\obj\Debug\netcoreapp3.1\DAL.pdb
