@@ -39,7 +39,7 @@ namespace DAL.Repositories
 
         public IEnumerable<City> GetAll()
         {
-            return _context.Cities.ToList();
+            return _context.Cities;
         }
 
         public void Update(City item)

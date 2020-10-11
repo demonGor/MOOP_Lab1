@@ -38,7 +38,7 @@ namespace DAL.Repositories
 
         public IEnumerable<Country> GetAll()
         {
-            return _context.Countries.ToList();
+            return _context.Countries;
         }
 
         public void Update(Country item)
