@@ -18,11 +18,10 @@ namespace View
 
             try
             {
-                
 
                 var countries = countryService.GetAllCountries();
                 var unicCountry = countryService.GetCountryById(2);
-                var citiesInBel = cityService.GetAllCitiesInCountry(2);
+                var citiesInBel = cityService.GetAllCitiesInCountry(1);
                 var unicCity = cityService.GetCityById(4);
 
                 //return to start 
